@@ -69,3 +69,4 @@ C:\Users\loie9\Documents\ShoppingApp\backend\BackEnd\obj\Debug\net8.0\refint\Bac
 C:\Users\loie9\Documents\ShoppingApp\backend\BackEnd\obj\Debug\net8.0\BackEndApi.pdb
 C:\Users\loie9\Documents\ShoppingApp\backend\BackEnd\obj\Debug\net8.0\BackEndApi.genruntimeconfig.cache
 C:\Users\loie9\Documents\ShoppingApp\backend\BackEnd\obj\Debug\net8.0\ref\BackEndApi.dll
+C:\Users\loie9\Documents\ShoppingApp\backend\BackEnd\obj\Debug\net8.0\BackEndApi.sourcelink.json
